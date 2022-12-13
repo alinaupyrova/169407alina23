@@ -1,0 +1,155 @@
+// -- 21/02/2022 12:55:59 -- //
+// -- 28/10/2022 14:33:00 -- //
+// -- 18/11/2022 08:04:01 -- //
+f(pi);
+f(%pi);
+// -- 13/12/2022 13:24:11 -- //
+cd:
+cd :
+CD:
+cd:D/
+cd:D
+Cd:D/
+cd D:
+mb
+cd JDO
+help
+diary('dok_1.aux')
+yjfjtg
+who
+apropos tekst
+whos
+mkdir
+mkdir 'fdgh'
+help
+exit
+// -- 13/12/2022 13:40:34 -- //
+cd D : 
+cd D: 
+disp("HELLO WORLD")
+X/Y
+x/y
+x=[0:.1:10] , A=0.5*X;
+EXIT;
+exit;
+// -- 13/12/2022 13:47:55 -- //
+cd D:
+alina upyrova
+cd D:alina_upyrova
+diary('programy_urzytkowe');
+help
+apropos tekst 
+clock
+date
+ver;
+ver
+bench_run()
+// -- 13/12/2022 13:56:27 -- //
+cd D:
+alina_upyrova
+cd D:alina_upyrova
+diary('programms')
+help
+apropos tekst
+clock
+date
+ver
+who
+whos
+clear
+clear 
+2+2
+4-5
+3/56
+3\56
+2*3
+//
+2:10
+scaler x=3
+x=4
+1 : .6 : 5
+linspace(4,15,17)
+U=[2,3,4,5,6]
+4+%i
+y=poly(0,y)
+x=poly(0,x)
+%pi
+%e
+%i
+%inf
+%eps
+x=[3,4;5,11]
+x(n)
+x(1)
+x(11}
+x(5)
+x(S)
+X(11)
+x(11)
+x(4)
+x(4-1)
+B=[2,3,4:4,5,6]
+B=[2,3,4;4,5,6]
+B(2,3)
+B(:,3)
+B(2,:)
+B(:,$)
+B($-1,:)
+B(1:3,2:3)
+B(2:3,1:2)
+B(1:2,2:3)
+C=[2,3,4,5;4,5,6,7]
+D=[3,7,8,9;3,4,5,6]
+C.*D
+C./D
+C.\D
+C\D
+C/B
+C/D
+3!
+3;4
+a=56
+b=78
+a<b
+b>a
+c=-3
+0>d
+0>c
+a>=c
+a<>b
+a==b
+factorial(3)
+sin(45)
+cos(-356)
+tan(2*3)
+csc (456)
+cotg(23)
+asin(1)
+acos(1/2)
+atan(90)
+asec(90)
+acot(90)
+ex[
+exp
+log(2)
+exp(x^2)
+modudo(2,3)
+modulo(2,3)
+factors(2)
+int(3,45)
+int(3.45)
+log(10)
+sqrt(25)
+clear A
+disp(B)
+disp("alina")
+find(a< 23)
+clean(a)
+format('a', 23)
+format('v',23)
+format('e',20)
+help("programms")
+log10(10)
+savehistory("programms')
+savehistory('programms')
+
